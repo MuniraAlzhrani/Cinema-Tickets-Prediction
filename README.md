@@ -1,1 +1,1 @@
-# Cinema-Tickets-Prediction
+# Cinema-Tickets-Prediction_Regression
